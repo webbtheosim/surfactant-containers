@@ -1,3 +1,3 @@
 # surfactant-containers
 
-This repository contains all of the input files needed to run simulations of p-A~4~B~4~ containers with SDS, 6C, or CTAB surfactants with LAMMPS. 
+This repository contains all of the input files needed to run simulations of p-A<sub>4</sub>B<sub>4</sub> molecular containers with SDS, 6C, or CTAB surfactants with LAMMPS. These include simulations of a single p-A<sub>4</sub>B<sub>4</sub> container with any surfactant, a simulation of a single p-A<sub>4</sub>B<sub>4</sub> where SDS is gradually inserted into the simulation box, and simulations of multiple containers (with SDS and 6C, not CTAB) initialized in proximity to one another.
